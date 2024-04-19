@@ -17,14 +17,16 @@
 ### Fases
 ---
 #### 🔹 Construção do framework no Figma;
-#### 🔹 Link no Figma: https://encurtador.com.br/dAFRY;
 #### 🔹 Construção do index.html;
 #### 🔹 Construção do style.css;
 #### 🔹 Construção do validacao.js;
 #### 🔹 Criação repositório no Github; 
-#### 🔹 Realização do deploy;
+#### 🔹 Realização do deploy.
+
+<br>
+
+### Links
+---
+#### 🔹 Link framework no Figma: https://encurtador.com.br/dAFRY;
 #### 🔹 Link deploy: https://vercel.com/joao-luiz-dados-projects/challenge-one-portfolio-br/6tuRPKDMWZWsZ4fSder4KuiSqjuc
-
-
-
 
