@@ -27,6 +27,6 @@
 
 ### Links
 ---
-#### 🔹 Link framework no Figma: https://encurtador.com.br/dAFRY;
-#### 🔹 Link deploy: https://vercel.com/joao-luiz-dados-projects/challenge-one-portfolio-br/6tuRPKDMWZWsZ4fSder4KuiSqjuc
+#### 🔹 Framework no Figma: https://encurtador.com.br/dAFRY;
+#### 🔹 Deploy: https://vercel.com/joao-luiz-dados-projects/challenge-one-portfolio-br/6tuRPKDMWZWsZ4fSder4KuiSqjuc
 
