@@ -203,6 +203,7 @@ section.hobbies {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    margin-bottom: 50px;
 }
 
 section .hobbies__title {
