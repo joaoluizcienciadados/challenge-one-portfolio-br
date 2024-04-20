@@ -158,8 +158,6 @@ section .about__paragraph {
 section.skills {
     display: flex;
     flex-direction: column;
-    padding: var(--padding-default);
-    margin: var(--margin-default);
     gap: 1rem;
 }
 
@@ -190,13 +188,20 @@ section .skills__box {
     box-shadow: #0000003d 0px 3px 8px;
 }
 
+section .skills__box ul {
+    padding-left: 0px;
+}
+
+section .skills__name {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
 /*Sessão Hobbies*/
 
 section.hobbies {
     display: flex;
     flex-direction: column;
-    padding: var(--padding-default);
-    margin: var(--margin-default);
     gap: 1rem;
 }
 
@@ -227,6 +232,14 @@ section .hobbies__box {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
+section .hobbies__box ul {
+    padding-left: 0px;
+}
+
+section .hobbies__name {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
 
 /* Experiência Acadêmica*/
 
@@ -279,7 +292,6 @@ section.experience {
     display: flex;
     flex-direction: column;
 }
-
 
 /*Contato*/
 
