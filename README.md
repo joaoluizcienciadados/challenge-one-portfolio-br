@@ -16,7 +16,7 @@
 
 ### Fases
 ---
-#### 🔹 Construção do framework no Figma;
+#### 🔹 Construção do wireframe no Figma;
 #### 🔹 Construção do index.html;
 #### 🔹 Construção do style.css;
 #### 🔹 Construção do validacao.js;
