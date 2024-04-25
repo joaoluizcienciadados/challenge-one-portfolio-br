@@ -45,6 +45,7 @@ section.menu header {
     display: flex;
     align-items: center;
     gap: 5px;
+    font-size: 30px;
 }
 
 
@@ -52,7 +53,6 @@ section.menu nav {
     display: flex;
     align-items: center;
     gap: 2rem;
-    font-size: 15px;
 }
 
 section.menu nav ul {
@@ -63,6 +63,12 @@ section.menu nav ul {
 
 section.menu nav li {
     padding: 20px;
+}
+
+section.menu nav li a {
+    font-size: 18px;
+    font-weight: 500;
+    font-weight: bold;
 }
 
 /*Sessão Title*/
@@ -294,6 +300,26 @@ section.experience {
     flex-direction: column;
 }
 
+section .experience__section__title {
+font-size: 20pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section .experience__section__h3 {
+    font-size: 15pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section .experience__section__p {
+    font-size: 12pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /*Contato*/
 
 section.formcontato{
