@@ -27,6 +27,5 @@
 
 ### Links
 ---
-#### 🔹 Framework no Figma: https://encurtador.com.br/dAFRY;
-#### 🔹 Deploy: https://challenge-one-portfolio-br-two.vercel.app/
-
+#### 🔹 Framework no Figma: <a href="https://encurtador.com.br/dAFRY" target="_blank">https://encurtador.com.br/dAFRY</a>
+#### 🔹 Deploy: <a href="https://challenge-one-portfolio-br-two.vercel.app/" target="_blank">https://challenge-one-portfolio-br-two.vercel.app/</a>
